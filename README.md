@@ -82,7 +82,19 @@ These are my advanced and polished projects, showcasing full functionality and d
   <td><a href="https://recipe-app-task-seven.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
   <td><img src="./LatestWebProjects/tailusfeedus.png" alt="Tailus Feedus Screenshot" width="150"/></td>  
 </tr>
- 
+<tr>  
+  <td><strong>Panda Commerce</strong></td>  
+  <td>  
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>  
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap"/>  
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>  
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
+  </td>  
+  <td><a href="https://epandas.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+  <td><a href="https://github.com/ImranParthib/Bootstrap-FrameWork/tree/main/PandaCommerce" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
+  <td><img src="./LatestWebProjects/pandacommerce.png" alt="Panda Commerce Screenshot" width="150"/></td>  
+</tr>
+
   </tbody>  
 </table>
 
