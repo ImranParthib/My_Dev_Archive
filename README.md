@@ -36,17 +36,18 @@ These are my advanced and polished projects, showcasing full functionality and d
       <td><img src="./LatestWebProjects/pilab.png" alt="PiLab Screenshot" width="150"/></td>  
     </tr>  
     <tr>  
-      <td><strong>StackBridge</strong></td>  
-      <td>  
-        <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white" alt="React"/>  
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>  
-        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>  
-        <img src="https://img.shields.io/badge/-Animated%20Cursor-lightgrey?style=flat" alt="Animated Cursor"/>  
-      </td>  
-      <td><a href="https://stack-bridge-bay.vercel.app/" target="_blank">Live Demo</a></td>  
-      <td><a href="https://github.com/ImranParthib/StackBridge" target="_blank">Code</a></td>  
-      <td><img src="./LatestWebProjects/stackbridge.png" alt="StackBridge Screenshot" width="150"/></td>  
-    </tr>  
+    <td><strong>StackBridge</strong></td>  
+    <td>  
+      <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>  
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
+      <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>  
+      <img src="https://img.shields.io/badge/-Animated%20Cursor-fedcba?style=plastic" alt="Animated Cursor"/>  
+    </td>  
+    <td><a href="https://stack-bridge-bay.vercel.app/" target="_blank">Live Demo</a></td>  
+    <td><a href="https://github.com/ImranParthib/StackBridge" target="_blank">Code</a></td>  
+    <td><img src="./LatestWebProjects/stackbridge.png" alt="StackBridge Screenshot" width="150"/></td>  
+   </tr>
+
   </tbody>  
 </table>
