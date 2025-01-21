@@ -139,30 +139,29 @@ These are personal projects that showcase my skills and creativity.
       <td><a href="https://github.com/ImranParthib/ImranParthiib.github.io" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td> 
       <td><img src="./PortfolioProjects/portfoliov1.png" alt="Portfolio V1 Screenshot" width="150"/></td>
     </tr>
-    <tr>
-      <td><strong>Portfolio V2 (React)</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
-        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-      </td>
-      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
-      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>
-      <td><img src="./PortfolioProjects/portfoliov2.png" alt="Portfolio V2 Screenshot - Coming soon" width="150"/></td>
-    </tr>
-    <tr>
-      <td><strong>Portfolio V3 (Next.js)</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
-        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-      </td>
-      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
-      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>
-      <td><img src="./PortfolioProjects/portfoliov3.png" alt="Portfolio V3 Screenshot - this year" width="150"/></td>
-    </tr>
+    <tr>  
+  <td><strong>Portfolio V2</strong> 🚧</td>  
+  <td>  
+    <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>  
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
+    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
+  </td>  
+  <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo%20Coming%20Soon-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+  <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code%20Coming%20Soon-FFA500?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
+  <td><img src="./PortfolioProjects/portfoliov2.png" alt="Portfolio V2 Screenshot - Under Development" width="150"/></td>
+</tr>
+
+<tr>  
+  <td><strong>Portfolio V3</strong> 🚀</td>  
+  <td>  
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js"/>  
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
+    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
+  </td>  
+  <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo%20Coming%20Soon-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+  <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code%20Coming%20Soon-FFA500?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
+  <td><img src="./PortfolioProjects/portfoliov3.png" alt="Portfolio V3 Screenshot - This Year" width="150"/></td>
+</tr>
+
   </tbody>
 </table>
