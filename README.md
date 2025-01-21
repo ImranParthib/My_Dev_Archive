@@ -94,16 +94,15 @@ These are personal projects that showcase my skills and creativity.
   </thead>
   <tbody>
     <tr>  
-  <td><strong>Portfolio V1</strong></td>  
-  <td>  
-    <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>  
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
-  </td>  
-  <td><a href="https://imranparthib.me/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/external-link.png" alt="Live Demo"/></a></td>  
-  <td><a href="https://github.com/ImranParthib/PortfolioV1" target="_blank"><img src="https://img.icons8.com/windows/32/000000/code.png" alt="Source Code"/></a></td>  
-  <td><img src="./PortfolioProjects/portfoliov1.png" alt="Portfolio V1 Screenshot" width="150"/></td>  
-</tr>
-
+      <td><strong>Portfolio V1</strong></td>  
+      <td>  
+        <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>  
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
+        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
+      </td>  
+      <td><a href="https://imranparthib.me/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+      <td><a href="https://github.com/ImranParthib/ImranParthiib.github.io" target="_blank"><img src="https://img.icons8.com/windows/32/000000/code.png" alt="Source Code"/></a></td>  
+      <td><img src="./PortfolioProjects/portfoliov1.png" alt="Portfolio V1 Screenshot" width="150"/></td>  
+    </tr>
   </tbody>
 </table>
