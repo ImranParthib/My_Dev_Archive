@@ -6,7 +6,8 @@ A well-organized collection of **Latest Projects** and **Practice Projects**, sh
 
 ## **Table of Contents**
 
-1. [Latest Projects](#latest-projects)
+1. [Latest Projects](#latest-projects-)
+2. [Portfolio Proejcts](#portfolio-projects-)
 
 ## **Latest Projects** 🚀
 
