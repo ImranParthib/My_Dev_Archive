@@ -49,7 +49,7 @@ These are my advanced and polished projects, showcasing full functionality and d
       <td><img src="./LatestWebProjects/stackbridge.png" alt="StackBridge Screenshot" width="150"/></td>  
     </tr>  
     <tr>  
-      <td><strong>DEVX</strong></td>  
+      <td><strong>DEVX <img src="https://img.shields.io/badge/-One%20Page-4caf50?style=flat" alt="One Page"/></strong></td>  
       <td>  
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>  
         <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white" alt="React"/>  
