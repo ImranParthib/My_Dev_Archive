@@ -149,7 +149,7 @@ These are personal projects that showcase my skills and creativity.
       </td>
       <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
       <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>
-      <td><img src="./PortfolioProjects/portfoliov2.png" alt="Portfolio V2 Screenshot" width="150"/></td>
+      <td><img src="./PortfolioProjects/portfoliov2.png" alt="Portfolio V2 Screenshot - Coming soon" width="150"/></td>
     </tr>
     <tr>
       <td><strong>Portfolio V3 (Next.js)</strong></td>
@@ -162,7 +162,7 @@ These are personal projects that showcase my skills and creativity.
       </td>
       <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
       <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>
-      <td><img src="./PortfolioProjects/portfoliov3.png" alt="Portfolio V3 Screenshot" width="150"/></td>
+      <td><img src="./PortfolioProjects/portfoliov3.png" alt="Portfolio V3 Screenshot - this year" width="150"/></td>
     </tr>
   </tbody>
 </table>
