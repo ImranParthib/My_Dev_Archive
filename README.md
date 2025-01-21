@@ -48,5 +48,18 @@ These are my advanced and polished projects, showcasing full functionality and d
       <td><a href="https://github.com/ImranParthib/StackBridge" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
       <td><img src="./LatestWebProjects/stackbridge.png" alt="StackBridge Screenshot" width="150"/></td>  
     </tr>  
+    <tr>  
+      <td><strong>DEVX</strong></td>  
+      <td>  
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>  
+        <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=white" alt="React"/>  
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>  
+        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
+        <img src="https://img.shields.io/badge/-One%20Page-4caf50?style=flat" alt="One Page"/>  
+      </td>  
+      <td><a href="https://devx-three.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+      <td><a href="https://github.com/ImranParthib/devx" target="_blank"><img src="https://img.shields.io/badge/-Code-24292e?style=flat&logo=github&logoColor=white" alt="Code"/></a></td>  
+      <td><img src="./LatestWebProjects/devx.png" alt="DEVX Screenshot" width="150"/></td>  
+    </tr>  
   </tbody>  
 </table>
