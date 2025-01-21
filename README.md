@@ -101,8 +101,7 @@ These are personal projects that showcase my skills and creativity.
         <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
       </td>  
       <td><a href="https://imranparthib.me/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
-      <td><a href="https://github.com/ImranParthib/ImranParthiib.github.io" target="_blank"><img src="https://img.icons8.com/windows/32/000000/code.png" alt="Source Code"/></a></td>  
-      <td><img src="./PortfolioProjects/portfoliov1.png" alt="Portfolio V1 Screenshot" width="150"/></td>  
+      <td><a href="https://github.com/ImranParthib/ImranParthiib.github.io" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td> 
     </tr>
   </tbody>
 </table>
