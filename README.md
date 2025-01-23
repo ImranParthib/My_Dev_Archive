@@ -9,7 +9,7 @@ A well-organized collection of **Latest Projects** and **Practice Projects**, sh
 1. [Latest Projects](#latest-projects-)
 2. [Portfolio Proejcts](#portfolio-projects-)
 3. [Android Development](#app-development-projects-)
-4. [Frontend Mentor Challange](#frontend-mentors-challenges-s)
+4. [Frontend Mentor Challange](#frontend-mentors-challenges-)
 
 ## **Latest Projects** 🚀
 
