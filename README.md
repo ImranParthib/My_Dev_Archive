@@ -198,3 +198,66 @@ A showcase of applications developed for mobile or cross-platform environments.
 
   </tbody>
 </table>
+
+---
+
+## **Frontend Mentors Challenges** 📱
+
+A showcase of applications developed for mobile or cross-platform environments.
+
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Tools</th>
+      <th>Level</th>
+      <th>Status</th>
+      <th>Description</th>
+      <th>Live Demo</th>
+      <th>Code</th>
+      <th>Screenshot</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Notifications Page</td>
+      <td>HTML, CSS, JavaScript</td>
+      <td>Junior</td>
+      <td>In-progress</td>
+      <td>A project to test your HTML, CSS, and basic JavaScript skills. Use JavaScript to toggle the visual state of notifications.</td>
+      <td><a href="#" target="_blank">Live Demo</a></td>
+      <td><a href="#" target="_blank">Code</a></td>
+      <td><a href="#" target="_blank">Screenshot</a></td>
+    </tr>
+    <tr>
+      <td>Recipe Page</td>
+      <td>HTML, CSS</td>
+      <td>Newbie</td>
+      <td>In-progress</td>
+      <td>Focuses on writing semantic HTML. Think about appropriate elements for each piece of content.</td>
+      <td><a href="#" target="_blank">Live Demo</a></td>
+      <td><a href="#" target="_blank">Code</a></td>
+      <td><a href="#" target="_blank">Screenshot</a></td>
+    </tr>
+    <tr>
+      <td>Single Price Grid Component</td>
+      <td>HTML, CSS</td>
+      <td>Newbie</td>
+      <td>Completed</td>
+      <td>Design and build a simple pricing grid with a responsive layout.</td>
+      <td><a href="#" target="_blank">Live Demo</a></td>
+      <td><a href="#" target="_blank">Code</a></td>
+      <td><a href="#" target="_blank">Screenshot</a></td>
+    </tr>
+    <tr>
+      <td>Interactive Rating Component</td>
+      <td>HTML, CSS, JavaScript</td>
+      <td>Junior</td>
+      <td>Completed</td>
+      <td>Build an interactive rating system where users can submit feedback.</td>
+      <td><a href="#" target="_blank">Live Demo</a></td>
+      <td><a href="#" target="_blank">Code</a></td>
+      <td><a href="#" target="_blank">Screenshot</a></td>
+    </tr>
+  </tbody>
+</table>
