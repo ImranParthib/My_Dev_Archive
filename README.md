@@ -222,7 +222,7 @@ A showcase of completed challenges from Frontend Mentor, demonstrating skills in
         <img src="https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML"/>
         <img src="https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS"/>
       </td>
-      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Run%20Code%20For%20Preview-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
+      <td><a href="https://omletrecipepage.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Run%20Code%20For%20Preview-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
       <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>
       <td><img src="./FrontendMentor/recipe.png" alt="Recipe Page Screenshot" width="150"/></td>
     </tr>
@@ -233,7 +233,7 @@ A showcase of completed challenges from Frontend Mentor, demonstrating skills in
         <img src="https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS"/>
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>
       </td>
-      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Run%20Code%20For%20Preview-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
+      <td><a href="https://notifime.surge.sh/" target="_blank"><img src="https://img.shields.io/badge/-Run%20Code%20For%20Preview-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
       <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>
       <td><img src="./FrontendMentor/notification.png" alt="Notifications Page Screenshot" width="150"/></td>
     </tr>
