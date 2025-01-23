@@ -115,7 +115,7 @@ These are my advanced and polished projects, showcasing full functionality and d
 
 ## **Portfolio Projects** 🎨
 
-These are personal projects that showcase my skills and creativity.
+These are my portfolio projects that showcase my skills and creativity.
 
 <table>
   <thead>
@@ -164,5 +164,38 @@ These are personal projects that showcase my skills and creativity.
   <td><img src="./PortfolioProjects/portfoliov3.png" alt="Portfolio V3 Screenshot - This Year" width="150"/></td>
 </tr>
 
+  </tbody>
+</table>
+
+---
+
+---
+
+## **App Development Projects** 📱
+
+A showcase of applications developed for mobile or cross-platform environments.
+
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Tools</th>
+      <th>Live Demo</th>
+      <th>Code</th>
+      <th>Screenshot</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>  
+      <td><strong>Calculator App</strong></td>  
+      <td>  
+        <img src="https://img.shields.io/badge/-React%20Native-61dafb?style=plastic&logo=react&logoColor=white" alt="React Native"/>  
+        <img src="https://img.shields.io/badge/-Expo-000020?style=plastic&logo=expo&logoColor=white" alt="Expo"/>  
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
+      </td>  
+      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo%20Coming%20Soon-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code%20Coming%20Soon-FFA500?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
+      <td><img src="./AppProjects/calculatorapp.png" alt="Calculator App Screenshot - Under Development" width="150"/></td>  
+    </tr>
   </tbody>
 </table>
