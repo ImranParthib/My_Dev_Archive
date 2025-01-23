@@ -203,61 +203,50 @@ A showcase of applications developed for mobile or cross-platform environments.
 
 ## **Frontend Mentors Challenges** 📱
 
-A showcase of applications developed for mobile or cross-platform environments.
+A showcase of completed challenges from Frontend Mentor, demonstrating skills in building responsive and interactive user interfaces.
 
 <table>
   <thead>
     <tr>
       <th>Project Name</th>
       <th>Tools</th>
-      <th>Level</th>
-      <th>Status</th>
-      <th>Description</th>
       <th>Live Demo</th>
       <th>Code</th>
       <th>Screenshot</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Notifications Page</td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>Junior</td>
-      <td>In-progress</td>
-      <td>A project to test your HTML, CSS, and basic JavaScript skills. Use JavaScript to toggle the visual state of notifications.</td>
-      <td><a href="#" target="_blank">Live Demo</a></td>
-      <td><a href="#" target="_blank">Code</a></td>
-      <td><a href="#" target="_blank">Screenshot</a></td>
+    <tr>  
+      <td><strong>Calculator App</strong></td>  
+      <td>  
+        <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white" alt="Java"/>  
+        <img src="https://img.shields.io/badge/-XML-FFA500?style=plastic" alt="XML"/>  
+        <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white" alt="Android Studio"/>  
+      </td>  
+      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Run%20Code%20For%20Preview-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+      <td><a href="https://github.com/ImranParthib/AndroidCalculator" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
+      <td><img src="./AppProjects/calculator.png" alt="Calculator App Screenshot" width="150"/></td>  
     </tr>
     <tr>
-      <td>Recipe Page</td>
-      <td>HTML, CSS</td>
-      <td>Newbie</td>
-      <td>In-progress</td>
-      <td>Focuses on writing semantic HTML. Think about appropriate elements for each piece of content.</td>
-      <td><a href="#" target="_blank">Live Demo</a></td>
-      <td><a href="#" target="_blank">Code</a></td>
-      <td><a href="#" target="_blank">Screenshot</a></td>
+      <td><strong>Recipe Page</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML"/>
+        <img src="https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS"/>
+      </td>
+      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Run%20Code%20For%20Preview-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
+      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>
+      <td><img src="./AppProjects/recipe_page.png" alt="Recipe Page Screenshot" width="150"/></td>
     </tr>
     <tr>
-      <td>Single Price Grid Component</td>
-      <td>HTML, CSS</td>
-      <td>Newbie</td>
-      <td>Completed</td>
-      <td>Design and build a simple pricing grid with a responsive layout.</td>
-      <td><a href="#" target="_blank">Live Demo</a></td>
-      <td><a href="#" target="_blank">Code</a></td>
-      <td><a href="#" target="_blank">Screenshot</a></td>
-    </tr>
-    <tr>
-      <td>Interactive Rating Component</td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>Junior</td>
-      <td>Completed</td>
-      <td>Build an interactive rating system where users can submit feedback.</td>
-      <td><a href="#" target="_blank">Live Demo</a></td>
-      <td><a href="#" target="_blank">Code</a></td>
-      <td><a href="#" target="_blank">Screenshot</a></td>
+      <td><strong>Notifications Page</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML"/>
+        <img src="https://img.shields.io/badge/-CSS-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS"/>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </td>
+      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Run%20Code%20For%20Preview-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
+      <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>
+      <td><img src="./AppProjects/notifications_page.png" alt="Notifications Page Screenshot" width="150"/></td>
     </tr>
   </tbody>
 </table>
