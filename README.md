@@ -191,8 +191,8 @@ A showcase of applications developed for mobile or cross-platform environments.
     <img src="https://img.shields.io/badge/-XML-FFA500?style=plastic" alt="XML"/>  
     <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white" alt="Android Studio"/>  
   </td>  
-  <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo%20Coming%20Soon-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
-  <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code%20Coming%20Soon-FFA500?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
+  <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Run%20Code%20For%20Preview-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+  <td><a href="https://github.com/ImranParthib/AndroidCalculator" target="_blank"><img src="https://img.shields.io/badge/-Code-000000?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
   <td><img src="./AppProjects/calculator.png" alt="Calculator App Screenshot" width="150"/></td>  
 </tr>
 
