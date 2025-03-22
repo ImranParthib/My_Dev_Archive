@@ -25,7 +25,23 @@ These are my advanced and polished projects, showcasing full functionality and d
       <th>Screenshot</th>  
     </tr>  
   </thead>  
-  <tbody>  
+  <tbody> 
+	<tr>  
+	<td><strong>Online Kenakata</strong></td>  
+	<td>  
+		<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>  
+		<img src="https://img.shields.io/badge/-App%20Router-000000?style=flat&logo=next.js&logoColor=white" alt="App Router"/>  
+		<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
+		<img src="https://img.shields.io/badge/-Context%20API-61DAFB?style=flat&logo=react&logoColor=white" alt="Context API"/>  
+		<img src="https://img.shields.io/badge/-WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" alt="WooCommerce"/>  
+		<img src="https://img.shields.io/badge/-SSLCommerz-FFA500?style=flat&logo=mastercard&logoColor=white" alt="SSLCommerz"/>  
+	</td>  
+	<td><a href="https://onlinekenakata.vercel.app/" target="_blank">
+		<img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+	</a></td>  
+	<td><img src="https://img.shields.io/badge/-Private%20Code-24292e?style=flat&logo=github&logoColor=white" alt="Private Code"/></td>  
+	<td><img src="./LatestWebProjects/onlinekenakata.png" alt="Online Kenakata Screenshot" width="150"/></td>  
+	</tr> 
     <tr>  
       <td><strong>PiLab</strong></td>  
       <td>  
