@@ -55,6 +55,22 @@ These are my advanced and polished projects, showcasing full functionality and d
       <td><img src="./LatestWebProjects/pilab.png" alt="PiLab Screenshot" width="150"/></td>  
     </tr>  
     <tr>  
+    <tr>  
+		<td><strong>Islamic Mission Japan</strong></td>  
+		<td>  
+			<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>  
+			<img src="https://img.shields.io/badge/-Recoil-3578E5?style=flat&logo=react&logoColor=white" alt="Recoil"/>  
+			<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
+			<img src="https://img.shields.io/badge/-Framer%20Motion-FF0050?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>  
+			<img src="https://img.shields.io/badge/-Component%20Based-61DAFB?style=flat&logo=react&logoColor=white" alt="Component Based"/>  
+			<img src="https://img.shields.io/badge/-Single%20Page-000000?style=flat&logo=web&logoColor=white" alt="Single Page Website"/>  
+		</td>  
+		<td><a href="https://islamic-mission-japan.vercel.app/" target="_blank">
+			<img src="https://img.shields.io/badge/-Live%20Demo-28a745?style=flat&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+		</a></td>  
+		<td><img src="https://img.shields.io/badge/-Private%20Code-24292e?style=flat&logo=github&logoColor=white" alt="Private Code"/></td>  
+		<td><img src="./LatestWebProjects/islamicmissionjapan.png" alt="Islamic Mission Japan Screenshot" width="150"/></td>  
+	</tr>
       <td><strong>StackBridge</strong></td>  
       <td>  
         <img src="https://img.shields.io/badge/-React-61dafb?style=plastic&logo=react&logoColor=white" alt="React"/>  
