@@ -194,8 +194,8 @@ These are my portfolio projects that showcase my skills and creativity.
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
     <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
   </td>  
-  <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo%20Coming%20Soon-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
-  <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code%20Coming%20Soon-FFA500?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
+  <td><a href="https://imranparthib.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+  <td><img src="https://img.shields.io/badge/-Private%20Code-24292e?style=flat&logo=github&logoColor=white" alt="Private Code"/></td>   
   <td><img src="./PortfolioProjects/portfoliov2.png" alt="Portfolio V2 Screenshot - Under Development" width="150"/></td>
 </tr>
 
@@ -206,8 +206,8 @@ These are my portfolio projects that showcase my skills and creativity.
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>  
     <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>  
   </td>  
-  <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo%20Coming%20Soon-FFA500?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
-  <td><a href="#" target="_blank"><img src="https://img.shields.io/badge/-Code%20Coming%20Soon-FFA500?style=plastic&logo=github&logoColor=white" alt="Code"/></a></td>  
+  <td><a href="https://www.imranparthib.me/" target="_blank"><img src="https://img.shields.io/badge/-Live%20Demo-00C853?style=plastic&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>  
+  <td><img src="https://img.shields.io/badge/-Private%20Code-24292e?style=flat&logo=github&logoColor=white" alt="Private Code"/></td>   
   <td><img src="./PortfolioProjects/portfoliov3.png" alt="Portfolio V3 Screenshot - This Year" width="150"/></td>
 </tr>
 
